@@ -7,6 +7,7 @@
   - [Objectives](#objectives)
   - [Game Controls](#game-controls)
   - [In game images](#in-game-images)
+  - [What I learned](#what-i-learned)
   - [Reference](#reference)
 
 ## Game Description
@@ -35,7 +36,12 @@ it is game over.
 <img src="images/screenshot_3.png" alt="next level" width="300"/>
 </p>
 
-
+## What I learned
+- Used of object oriented programming
+- Refactoring codes for optimization and simplicity
+- Used of Pygame modules
+- Draw my own pixel art assets
+- How to be organize my workflow
 
 ## Reference
 - Python Crash Course 2e by Eric Matthes
