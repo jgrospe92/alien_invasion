@@ -30,9 +30,9 @@ it is game over.
 
 ## In game images
 <p float="left">
-<img src="images/screenshot_1.png" alt="game menu" width="300">
-<img src="images/screenshot_2.png" alt="start game" width="300">
-<img src="images/screenshot_3.png" alt="next level" width="300">
+<img src="images/screenshot_1.png" alt="game menu" width="300"/>
+<img src="images/screenshot_2.png" alt="start game" width="300"/>
+<img src="images/screenshot_3.png" alt="next level" width="300"/>
 </p>
 
 
